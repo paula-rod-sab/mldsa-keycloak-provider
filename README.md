@@ -19,7 +19,7 @@ mvn clean package
 cp target/mldsa-keycloak-provider.jar $KEYCLOAK_HOME/providers/
 
 # Configure Your Realm
-Configure your realm to use **ML-DSA-44** for JWT signing.
+Configure your realm to use ML-DSA-44 for JWT signing.
 ```
 
 ---
